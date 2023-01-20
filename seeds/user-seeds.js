@@ -23,10 +23,10 @@ const userData = [
         password: "p@ssword3"
     },
     {
-        username: "lee_n",
-        twitter: "leenorris",
+        username: "len_n",
+        twitter: "lennorris",
         github: "leenorris",
-        email: "lee_n@gmail.com",
+        email: "len_n@gmail.com",
         password: "p@ssword4"
     },
     {
